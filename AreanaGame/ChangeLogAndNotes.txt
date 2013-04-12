@@ -1,0 +1,3 @@
+added:
++EditPackages=AreanaGame to UDK->UDKGame->Config->DefaultEngine.ini
+folder: AreanaGameContent to UDK->UDKGame->Content

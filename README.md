@@ -11,6 +11,6 @@ Please contact us here.
 
 -----------------------
 
-Refer to GoogleDoc for further questions / ideas.
+This branch is ONLY FOR UNREALSCRIPT CODE!!!
 
 -----------------------

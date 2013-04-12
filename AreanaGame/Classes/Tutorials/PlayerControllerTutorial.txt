@@ -1,0 +1,7 @@
+//This is an example from http://udn.epicgames.com/Three/BasicGameQuickStart.html 
+class AreanaPlayerController extends GamePlayerController;
+
+defaultproperties
+{
+   CameraClass=class'AreanaGame.AreanaPlayerCamera'
+}
